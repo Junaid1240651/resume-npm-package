@@ -2,6 +2,8 @@
 
 Junaid Khan's professional resume as an npm package.
 
+npm package downloads link - https://www.npmjs.com/package/sde1junaidkhan
+
 ## Installation & Usage
 
 You can run my resume directly without installing:
