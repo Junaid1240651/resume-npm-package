@@ -1,0 +1,33 @@
+{
+  "name": "sde1junaidkhan",
+  "version": "1.0.0",
+  "description": "My professional resume as an npm package",
+  "main": "index.js",
+  "bin": {
+    "@sde1junaidkhan": "./bin/resume.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "portfolio",
+    "career"
+  ],
+  "author": "Junaid Khan <jk1240651@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sde1junaidkhan/sde1junaidkhan.git"
+  },
+  "homepage": "https://github.com/sde1junaidkhan/sde1junaidkhan#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
